@@ -1,3 +1,14 @@
+# Branches
+
+This project is currently in the initial design phase. Here are the branches supported so far in this repository:
+
+1. Master branch
+  - This is the foremost branch that contains the main game.
+  - Checkout this branch by typing `git checkout master`.
+2. Documentation branch
+  - Contains the game proposals, code documentation, diagrams, and API.
+  - Checkout this branch by typing: `git checkout docs`
+
 # Team Assignments
 
 The following is a list of teams and the members of each. To find which teams you are included, simply use CTRL+F and search for your nickname within this document. Highlighted in bold are the team heads.
