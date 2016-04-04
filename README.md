@@ -7,7 +7,7 @@ This project is currently in the initial design phase. Here are the branches sup
   - Checkout this branch by typing `git checkout master`.
 2. Documentation branch
   - Contains the game proposals, code documentation, diagrams, and API.
-  - Checkout this branch by typing: `git checkout docs`
+  - Checkout this branch by typing: `git checkout docs`.
 
 # Team Assignments
 
